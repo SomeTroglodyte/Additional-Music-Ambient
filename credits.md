@@ -12,6 +12,7 @@ License: https://filmmusic.io/standard-license
 Elf Meditation Preview by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/5728-elf-meditation-preview
 License: https://filmmusic.io/standard-license
+Cover image used as mod preview
 
 - [Wind of the Rainforest](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wind%20of%20the%20Rainforest.mp3)
 Wind Of The Rainforest Preview by Kevin MacLeod
